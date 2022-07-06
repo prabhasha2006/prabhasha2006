@@ -1,4 +1,4 @@
-## Hey there, I am using Github.
+## 👋Hey there, I am using Github.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=👀Hi+friends🥰;💌I+am+Kumuthu+Prabhasha)](https://git.io/typing-svg)
 
@@ -21,7 +21,7 @@
 
 
 <p align="center">
-<img src="https://i.ibb.co/NghKqgK/IMG-20220705-WA0053.jpg" alt="nz" width="400"/>
+<img src="https://i.ibb.co/NghKqgK/IMG-20220705-WA0053.jpg" alt="nz" width="310"/>
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-<img src="https://i.ibb.co/h8SkC9j/IMG-20220705-231733.jpg" alt="nz" width="400"/>
+<img src="https://telegra.ph/file/1ff457ba7f33c1fee8519.jpg" alt="nz" width="310"/>
 </p>
 
 <p align="center">
