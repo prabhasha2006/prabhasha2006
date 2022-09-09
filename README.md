@@ -21,21 +21,32 @@
 <img src="https://telegra.ph/file/70b844c197a99cadf2d7f.png" alt="nz" width="350"/>
 </p>
 
-<p align="center">
-<img src=
-"https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966" alt="nz" width="600"/>
-</p>
-
 
 <p align="center">
 <a href="https://sites.google.com/view/red-dragon-bot/home">🎸My Red-Dragon-Bot Website Here😜💌
 </p>
-
+<!--
 <p align="center">
 <img src="https://telegra.ph/file/1ff457ba7f33c1fee8519.jpg" alt="nz" width="310"/>
 </p>
+-->
+## 🏆 GitHub Awards
 
-<p align="center">
-<img src=
-"https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966" alt="nz" width="600"/>
-</p>
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=prabhasha2006&theme=darkhub)
+
+
+# 📊 My Status
+![](https://github-readme-stats.vercel.app/api?username=prabhasha2006&theme=vue&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=prabhasha2006&theme=vue&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhasha2006&theme=vue&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+## 🏆 GitHub Awards
+![](https://github-profile-trophy.vercel.app/?username=prabhasha2006&theme=flat&no-frame=true&no-bg=false&margin-w=4)
+
+[![](https://visitcount.itsvg.in/api?id=prabhasha2006&icon=7&color=0)](https://visitcount.itsvg.in)
+
+  <a href="https://github.com/prabhasha2006/Red-Dragon"><img width="288" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prabhasha2006&repo=Red-Dragon&theme=chartreuse-dark&icon_color=0000e6&title_color=ff0000&bg_color=11ff11&text_color=ffffff&disable_animations=false"></a>
+
+
+
+
