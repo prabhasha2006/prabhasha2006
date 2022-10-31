@@ -1,6 +1,16 @@
-<img src='K.Prabhasha(2).gif'>
+Annoucement 📢
 
-## 👋Hi, 👆Don't forget to follow me now😁.
+>We change our RED-DRAGON company name to XCODEJET because of the other redragon.
+
+##[FOLLOW XCODEJET NOW](https://github.com/xcodejet)
+
+>https://github.com/xcodejet
+
+##[OFFICIAL WEBSITE](http://xcodejet.epizy.com)
+
+>http://xcodejet.epizy.com
+
+<img src='K.Prabhasha(2).gif'>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=👀Hi+friends🥰;💌I+am+Kumuthu+Prabhasha;🌼Thanks+For+Watching+My+Profile🔋)](https://git.io/typing-svg)
 
@@ -18,13 +28,9 @@
 
 
 <p align="center">
-<img src="https://telegra.ph/file/70b844c197a99cadf2d7f.png" alt="nz" width="350"/>
+<img src="xcodejet-gif.gif" alt="nz" width="350"/>
 </p>
 
-
-<p align="center">
-<a href="https://sites.google.com/view/red-dragon-bot/home">🎸My Red-Dragon-Bot Website Here😜💌
-</p>
 <!--
 <p align="center">
 <img src="https://telegra.ph/file/1ff457ba7f33c1fee8519.jpg" alt="nz" width="310"/>
