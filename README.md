@@ -10,7 +10,9 @@ Annoucement 📢
 
 >http://xcodejet.epizy.com
 
-<img src='K.Prabhasha(2).gif'>
+<p align="center">
+<img src='xcodejet_gif.gif' alt="nz" width="350"/>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=👀Hi+friends🥰;💌I+am+Kumuthu+Prabhasha;🌼Thanks+For+Watching+My+Profile🔋)](https://git.io/typing-svg)
 
@@ -26,10 +28,7 @@ Annoucement 📢
 <a href="https://github.com/prabhasha2006"><img src="https://img.shields.io/badge/-GitHub-blue?style=flat-cirlce&logo=github" width="101"/> 
 </p>
 
-
-<p align="center">
-<img src="xcodejet-gif.gif" alt="nz" width="350"/>
-</p>
+<img src='K.Prabhasha(2).gif'>
 
 <!--
 <p align="center">
