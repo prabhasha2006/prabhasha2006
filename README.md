@@ -1,25 +1,15 @@
 Annoucement 📢
 
->We change our RED-DRAGON company name to XCODEJET because of the other redragon.
-
-##[FOLLOW XCODEJET NOW](https://github.com/xcodejet)
-
->https://github.com/xcodejet
-
-##[OFFICIAL WEBSITE](http://xcodejet.epizy.com)
-
->http://xcodejet.epizy.com
-
 <p align="center">
 <img src='xcodejet_gif.gif' alt="nz" width="350"/>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=👀Hi+friends🥰;💌I+am+Kumuthu+Prabhasha;🌼Thanks+For+Watching+My+Profile🔋)](https://git.io/typing-svg)
-
+<!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=😋හේ+හේ+❤️ම්ම්ම්...;😏මාව+Follow+කරේ+නැද්ද?😭;🤭මාව+follow+කරන්න+ඉතිං🌹;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F716&lines=🌼Thanks+For+Watching+My+Profile🥇;⭐MAIN+PROJECT⭐;🔋⚙+RED-DRAGON-MD+bot+🤖)](https://git.io/typing-svg)
-
+-->
 
 ## ``` Contact Me ```
 <p align="center">
