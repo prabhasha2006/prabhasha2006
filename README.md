@@ -1,5 +1,4 @@
-Annoucement 📢
-
+EveloCode
 <p align="center">
 <img src='xcodejet_gif.gif' alt="nz" width="350"/>
 </p>
@@ -11,8 +10,9 @@ Annoucement 📢
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F716&lines=🌼Thanks+For+Watching+My+Profile🥇;⭐MAIN+PROJECT⭐;🔋⚙+RED-DRAGON-MD+bot+🤖)](https://git.io/typing-svg)
 -->
 
-## ``` Contact Me ```
+## ``` Contact ```
 <p align="center">
+<a href="https://wa.me/380944814219"><img src="https://preview.redd.it/tpvewx1950311.png?width=1487&format=png&auto=webp&s=be429e3b5e7e51c777497c95b63c5011f9a906b6" width="115"/>
 <a href="https://wa.me/380944814219"><img src="https://github.com/Alien-alfa/PublicBot/raw/main/wlogo.svg.png" width="115"/>
 <a href="https://t.me/kumuthu"><img src="https://img.shields.io/badge/-Telegram-white?style=flat-cirlce&logo=telegram" width="125"/> 
 <a href="https://github.com/prabhasha2006"><img src="https://img.shields.io/badge/-GitHub-blue?style=flat-cirlce&logo=github" width="101"/> 
@@ -40,7 +40,7 @@ Annoucement 📢
 
 [![](https://visitcount.itsvg.in/api?id=prabhasha2006&icon=7&color=0)](https://visitcount.itsvg.in)
 
-  <a href="https://github.com/prabhasha2006/Red-Dragon"><img width="288" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prabhasha2006&repo=Red-Dragon&theme=chartreuse-dark&icon_color=0000e6&title_color=ff0000&bg_color=11ff11&text_color=ffffff&disable_animations=false"></a>
+  <a href="https://github.com/prabhasha2006/Red-Dragon"><img width="288" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prabhasha2006&repo=Red-Dragon&theme=chartreuse-dark&icon_color=0000e6&title_color=ff0000&bg_color=222233&text_color=ffffff&disable_animations=false"></a>
 
 
 
