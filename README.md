@@ -1,6 +1,6 @@
 EveloCode
 <p align="center">
-<img src='xcodejet_gif.gif' alt="nz" width="350"/>
+<img src='README.svg' alt="nz" width="100%"/>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=👀Hi+friends🥰;💌I+am+Kumuthu+Prabhasha;🌼Thanks+For+Watching+My+Profile🔋)](https://git.io/typing-svg)
