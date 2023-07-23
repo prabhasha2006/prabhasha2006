@@ -1,6 +1,5 @@
-EveloCode
 <p align="center">
-<img src='README.svg' alt="nz" width="100%"/>
+<img src='README.svg' width="100%"/>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=👀Hi+friends🥰;💌I+am+Kumuthu+Prabhasha;🌼Thanks+For+Watching+My+Profile🔋)](https://git.io/typing-svg)
@@ -17,8 +16,6 @@ EveloCode
 <a href="https://t.me/kumuthu"><img src="https://img.shields.io/badge/-Telegram-white?style=flat-cirlce&logo=telegram" width="125"/> 
 <a href="https://github.com/prabhasha2006"><img src="https://img.shields.io/badge/-GitHub-blue?style=flat-cirlce&logo=github" width="101"/> 
 </p>
-
-<img src='K.Prabhasha(2).gif'>
 
 <!--
 <p align="center">
