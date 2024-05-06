@@ -1,5 +1,5 @@
 <p align="center">
-<img src='README.svg' width="100%"/>
+<img src='README2.svg' width="100%"/>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=👀Hi+friends🥰;💌I+am+Kumuthu+Prabhasha;🌼Thanks+For+Watching+My+Profile🔋)](https://git.io/typing-svg)
