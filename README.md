@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="README3.png" width="60%"/>
+  <img src="README3.jpeg" width="200px"/>
 </p>
 
 <h1 align="center">👋 Hello, I'm Kumuthu Prabhasha 👋</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Welcome+to+my+GitHub!;Full-Stack+Developer+and+Enthusiast;Thanks+for+visiting+my+profile!"/>
+    <img src="https://readme-typing-svg.herokuapp.com?color=FF1043&lines=Welcome+to+my+GitHub!;Full-Stack+Developer+and+Enthusiast;Thanks+for+visiting+my+profile!"/>
   </a>
 </p>
 
@@ -37,7 +37,9 @@ Check out my [portfolio website](https://kp.evelocore.com/) for more about my wo
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prabhasha2006&theme=vue&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats"/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhasha2006&theme=vue&hide_border=true" alt="GitHub Streak"/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhasha2006&theme=vue&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
 
@@ -52,7 +54,26 @@ Check out my [portfolio website](https://kp.evelocore.com/) for more about my wo
 
 ---
 
+### 🌐 Additional Projects
+<p align="center">
+  <a href="https://kp.evelocore.com">
+    <img src="https://img.shields.io/badge/KP-evelocore.com-blue" width="140"/>
+  </a>
+  <a href="https://myip.evelocore.com">
+    <img src="https://img.shields.io/badge/MyIP-evelocore.com-blue" width="140"/>
+  </a>
+  <a href="https://partspro.lk">
+    <img src="https://img.shields.io/badge/PartsPro.lk-blue" width="140"/>
+  </a>
+</p>
+
+---
+
 ### 📊 Visitor Count
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=prabhasha2006&icon=7&color=0" alt="Visitor Count"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
 </p>
