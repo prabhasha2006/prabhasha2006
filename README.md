@@ -8,10 +8,11 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Advanced+Level+Student;Tech+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
 
-  <p>
+   <p>
     <a href="https://kp.evelocore.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
     <a href="https://github.com/prabhasha2006" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
     <a href="https://t.me/kumuthu" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+    <a href="https://discord.com/users/evelocore" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   </p>
 </div>
 
