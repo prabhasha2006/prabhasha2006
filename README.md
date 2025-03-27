@@ -1,79 +1,159 @@
-<p align="center">
-  <img src="README3.jpeg" width="200px"/>
-</p>
+<div align="center">
+  <div style="margin-bottom: 30px; border: 2px solid #2F81F7; border-radius: 15px; padding: 5px; display: inline-block; background: linear-gradient(145deg, #2F81F7 0%, #1a1b27 100%); box-shadow: 0 4px 8px rgba(47, 129, 247, 0.2);">
+    <img src="README4.jpeg" width="280px" style="border-radius: 10px; border: 4px solidrgba(13, 17, 23, 0)"/>
+  </div>
 
-<h1 align="center">👋 Hello, I'm Kumuthu Prabhasha 👋</h1>
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=FF1043&lines=Welcome+to+my+GitHub!;Full-Stack+Developer+and+Enthusiast;Thanks+for+visiting+my+profile!"/>
+  # U.V.D. Kumuthu Prabhasha
+  ### Full Stack Developer
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Advanced+Level+Student;Tech+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
+
+  <p>
+    <a href="https://kp.evelocore.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+    <a href="https://github.com/prabhasha2006" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://t.me/kumuthu" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  </p>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</div>
+
+## 🚀 About Me
+
+<div style="border-left: 3px solid #2F81F7; padding-left: 20px; margin: 10px 0;">
+  Advanced Level student from Sri Lanka with a passion for full-stack development. Currently balancing academic pursuits with software development, I specialize in creating modern web applications and innovative solutions.
+</div>
+
+### 🎓 Educational Journey
+- 📚 Advanced Level Student in Sri Lanka
+- 💡 Self-taught programmer since 2020
+- 🔬 Studying Physical Science stream
+- 🌱 Constantly learning new technologies
+- 🏆 Participated in several coding competitions
+
+### 💻 Development Focus
+- Building scalable web applications with React and Next.js
+- Creating fast and efficient development environments using Vite
+- Developing RESTful APIs with Node.js and Express
+- Database design and management with MongoDB
+- Cross-platform desktop applications with Electron
+
+### 🌟 Current Goals
+- 📈 Excel in A/L examinations
+- 💻 Expand full-stack development expertise
+- 🤝 Contribute to open-source projects
+- 📱 Explore mobile app development
+- 🎯 Build more real-world applications
+
+### 💻 Technical Arsenal
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Frontend</th>
+      <th>Backend</th>
+      <th>Tools & DevOps</th>
+    </tr>
+    <tr>
+      <td>
+        ▪️ React.js & Next.js<br>
+        ▪️ Vite & Electron<br>
+        ▪️ HTML5 & CSS3<br>
+        ▪️ JavaScript (ES6+)
+      </td>
+      <td>
+        ▪️ Node.js & Express<br>
+        ▪️ MongoDB<br>
+        ▪️ RESTful APIs<br>
+        ▪️ Server Architecture
+      </td>
+      <td>
+        ▪️ Git & GitHub<br>
+        ▪️ Docker<br>
+        ▪️ CI/CD<br>
+        ▪️ Cloud Services
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🌐 Featured Projects
+
+<div align="center">
+  <a href="https://cdn.evelocore.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌩️_EC_Drive-Personal_Cloud_Storage-2F81F7?style=for-the-badge&logo=express"/>
   </a>
-</p>
+  <p align="center" style="font-size: 0.85em; color: #8B949E;">
+    Modern personal cloud storage solution with API integration • Express.js • EveloDB • Vite • React
+  </p>
 
----
+  <a href="https://eazybook.lk" target="_blank">
+    <img src="https://img.shields.io/badge/📅_EazyBook-Smart_Booking_Platform-2F81F7?style=for-the-badge&logo=mongodb"/>
+  </a>
+  <p align="center" style="font-size: 0.85em; color: #8B949E;">
+    Sri Lanka's comprehensive booking platform • Next.js • MongoDB • PayHere Integration
+  </p>
 
-### 🧑‍💻 About Me
-Hi there! I'm Kumuthu, a passionate software developer specializing in full-stack development and bot creation. I love exploring new technologies and applying them in creative projects.
+  <a href="https://evelocard.com" target="_blank">
+    <img src="https://img.shields.io/badge/💳_EveloCard-Digital_Business_Cards-2F81F7?style=for-the-badge&logo=next.js"/>
+  </a>
+  <p align="center" style="font-size: 0.85em; color: #8B949E;">
+    Custom digital business card creator • Next.js • Express • MongoDB • PM2 • Nginx
+  </p>
 
-Check out my [portfolio website](https://kp.evelocore.com/) for more about my work!
+  <a href="https://www.npmjs.com/package/evelodb" target="_blank">
+    <img src="https://img.shields.io/badge/🗃️_EveloDB-Local_DBMS_System-2F81F7?style=for-the-badge&logo=npm"/>
+  </a>
+  <p align="center" style="font-size: 0.85em; color: #8B949E;">
+    B-Tree based local database management system • Node.js • JSON • 500+ Downloads
+  </p>
 
----
+  <a href="https://kp.evelocore.com" target="_blank">
+    <img src="https://img.shields.io/badge/💼_Portfolio-KP_Website-2F81F7?style=for-the-badge&logo=react"/>
+  </a>
+  <p align="center" style="font-size: 0.85em; color: #8B949E;">
+    Professional portfolio and blog • React • Next.js • Modern Design
+  </p>
 
-### 📫 Let's Connect
-<p align="center">
-  <a href="https://wa.me/380944814219"><img src="https://preview.redd.it/tpvewx1950311.png?width=1487&format=png&auto=webp&s=be429e3b5e7e51c777497c95b63c5011f9a906b6" width="100"/></a>
-  <a href="https://t.me/kumuthu"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" width="110"/></a>
-  <a href="https://github.com/prabhasha2006"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" width="90"/></a>
-</p>
+  <a href="https://myip.evelocore.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Web_App-MyIP_Service-2F81F7?style=for-the-badge&logo=javascript"/>
+  </a>
+  <p align="center" style="font-size: 0.85em; color: #8B949E;">
+    IP address lookup and network tools • JavaScript • API Integration
+  </p>
 
----
+  <a href="https://partspro.lk" target="_blank">
+    <img src="https://img.shields.io/badge/🛍️_E_Commerce-PartsPro-2F81F7?style=for-the-badge&logo=shopify"/>
+  </a>
+  <p align="center" style="font-size: 0.85em; color: #8B949E;">
+    Automotive parts e-commerce platform • Modern Shopping Experience
+  </p>
+</div>
 
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prabhasha2006&theme=darkhub&no-frame=true&margin-w=4"/>
-</p>
+## 📊 GitHub Metrics
 
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prabhasha2006&theme=vue&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prabhasha2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=FFFFFF"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhasha2006&theme=vue&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhasha2006&theme=tokyonight&hide_border=true&background=0D1117&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7"/>
+</div>
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prabhasha2006&theme=darkhub&no-frame=true&margin-w=4&column=4&bg_color=0D1117&title_color=2F81F7"/>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="700"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhasha2006&theme=vue&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"/>
-</p>
-
----
-
-### 🔥 My Projects
-<p align="center">
-  <a href="https://github.com/prabhasha2006/Red-Dragon">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prabhasha2006&repo=Red-Dragon&theme=chartreuse-dark&icon_color=0000e6&title_color=ff0000&bg_color=222233&text_color=ffffff" width="290"/>
-  </a>
-</p>
-
----
-
-### 🌐 Additional Projects
-<p align="center">
-  <a href="https://kp.evelocore.com">
-    <img src="https://img.shields.io/badge/KP-evelocore.com-blue" width="140"/>
-  </a>
-  <a href="https://myip.evelocore.com">
-    <img src="https://img.shields.io/badge/MyIP-evelocore.com-blue" width="140"/>
-  </a>
-  <a href="https://partspro.lk">
-    <img src="https://img.shields.io/badge/PartsPro.lk-blue" width="140"/>
-  </a>
-</p>
-
----
-
-### 📊 Visitor Count
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=prabhasha2006&icon=7&color=0" alt="Visitor Count"/>
-</p>
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
-</p>
+  <img src="https://komarev.com/ghpvc/?username=prabhasha2006&color=2F81F7&style=for-the-badge&label=Profile+Views"/>
+</div>
