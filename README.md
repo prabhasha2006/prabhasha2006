@@ -30,7 +30,7 @@
 ## 🚀 About Me
 
 <div style="border-left: 3px solid #2F81F7; padding-left: 20px; margin: 10px 0;">
-  Advanced Level student from Sri Lanka with a passion for full-stack development. Currently balancing academic pursuits with software development, I specialize in creating modern web applications and innovative solutions.
+  Hello! I'm K. Prabhasha, a passionate Full Stack Developer and tech entrepreneur. Currently balancing academic pursuits with software development, I specialize in creating modern web applications and innovative solutions.
 </div>
 
 ### 🎓 Educational Journey
