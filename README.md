@@ -34,9 +34,7 @@
 </div>
 
 ### 🎓 Educational Journey
-- 📚 Advanced Level Student in Sri Lanka
 - 💡 Self-taught programmer since 2020
-- 🔬 Studying Physical Science stream
 - 🌱 Constantly learning new technologies
 - 🏆 Participated in several coding competitions
 
@@ -48,7 +46,6 @@
 - Cross-platform desktop applications with Electron
 
 ### 🌟 Current Goals
-- 📈 Excel in A/L examinations
 - 💻 Expand full-stack development expertise
 - 🤝 Contribute to open-source projects
 - 📱 Explore mobile app development
