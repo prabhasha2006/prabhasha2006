@@ -1,6 +1,6 @@
 <div align="center">
   <div style="margin-bottom: 30px; border: 2px solid #2F81F7; border-radius: 15px; padding: 5px; display: inline-block; background: linear-gradient(145deg, #2F81F7 0%, #1a1b27 100%); box-shadow: 0 4px 8px rgba(47, 129, 247, 0.2);">
-    <img src="README4.jpeg" width="280px" style="border-radius: 10px; border: 4px solidrgba(13, 17, 23, 0)"/>
+    <img src="favicon-512.png" width="280px" style="border-radius: 10px; border: 4px solidrgba(13, 17, 23, 0)"/>
   </div>
 
   # U.V.D. Kumuthu Prabhasha
