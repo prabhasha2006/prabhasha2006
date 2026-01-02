@@ -86,6 +86,13 @@
 ## 🌐 Featured Projects
 
 <div align="center">
+  <a href="https://www.naturethink.lk" target="_blank">
+    <img src="https://img.shields.io/badge/🛍️_E_Commerce-NatureThink-2F81F7?style=for-the-badge&logo=shopify"/>
+  </a>
+  <p align="center" style="font-size: 0.85em; color: #8B949E;">
+    Nature Think e-commerce platform • Best Place To Buy Natural Products
+  </p>
+  
   <a href="https://cdn.evelocore.com" target="_blank">
     <img src="https://img.shields.io/badge/🌩️_EC_Drive-Personal_Cloud_Storage-2F81F7?style=for-the-badge&logo=express"/>
   </a>
@@ -126,13 +133,6 @@
   </a>
   <p align="center" style="font-size: 0.85em; color: #8B949E;">
     IP address lookup and network tools • JavaScript • API Integration
-  </p>
-
-  <a href="https://partspro.lk" target="_blank">
-    <img src="https://img.shields.io/badge/🛍️_E_Commerce-PartsPro-2F81F7?style=for-the-badge&logo=shopify"/>
-  </a>
-  <p align="center" style="font-size: 0.85em; color: #8B949E;">
-    Automotive parts e-commerce platform • Modern Shopping Experience
   </p>
 </div>
 
