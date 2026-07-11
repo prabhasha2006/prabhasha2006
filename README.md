@@ -87,11 +87,18 @@
 ## 🌐 Featured Projects
 
 <div align="center">
-  <a href="https://www.naturethink.lk" target="_blank">
-    <img src="https://img.shields.io/badge/🛍️_E_Commerce-NatureThink-2F81F7?style=for-the-badge&logo=shopify"/>
+  <a href="https://www.silinbilin.lk" target="_blank">
+    <img src="https://img.shields.io/badge/🛍️_E_Commerce-SilinBilin-2F81F7?style=for-the-badge&logo=shopify"/>
   </a>
   <p align="center" style="font-size: 0.85em; color: #8B949E;">
-    Nature Think e-commerce platform • Best Place To Buy Natural Products
+    SilinBilin.LK e-commerce platform • Local finds & smart everyday gadgets
+  </p>
+  
+  <a href="https://tools.evelocore.com/tools/dot-board-cooker" target="_blank">
+    <img src="https://img.shields.io/badge/🌩️TOOLS-Dot_Board_Cooker-2F81F7?style=for-the-badge"/>
+  </a>
+  <p align="center" style="font-size: 0.85em; color: #8B949E;">
+    Design dot boards for your projects with an intuitive canvas and diagramming tools.
   </p>
   
   <a href="https://cdn.evelocore.com" target="_blank">
@@ -115,11 +122,11 @@
     Custom digital business card creator • Next.js • Express • MongoDB • PM2 • Nginx
   </p>
 
-  <a href="https://www.npmjs.com/package/evelodb" target="_blank">
+  <a href="https://www.npmjs.com/package/evelodb-prime" target="_blank">
     <img src="https://img.shields.io/badge/🗃️_EveloDB-Local_DBMS_System-2F81F7?style=for-the-badge&logo=npm"/>
   </a>
   <p align="center" style="font-size: 0.85em; color: #8B949E;">
-    B-Tree based local database management system • Node.js • JSON • 500+ Downloads
+    B-Tree based local database management system • Node.js • 1000+ Downloads
   </p>
 
   <a href="https://kp.evelocore.com" target="_blank">
@@ -127,13 +134,6 @@
   </a>
   <p align="center" style="font-size: 0.85em; color: #8B949E;">
     Professional portfolio and blog • React • Next.js • Modern Design
-  </p>
-
-  <a href="https://myip.evelocore.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Web_App-MyIP_Service-2F81F7?style=for-the-badge&logo=javascript"/>
-  </a>
-  <p align="center" style="font-size: 0.85em; color: #8B949E;">
-    IP address lookup and network tools • JavaScript • API Integration
   </p>
 </div>
 
