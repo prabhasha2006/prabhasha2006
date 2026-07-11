@@ -65,8 +65,8 @@
       <td>
         ▪️ React.js & Next.js<br>
         ▪️ Vite & Electron<br>
-        ▪️ HTML5 & CSS3<br>
-        ▪️ JavaScript (ES6+)
+        ▪️ TypeScript<br>
+        ▪️ HTML5 & CSS3
       </td>
       <td>
         ▪️ Node.js & Express<br>
